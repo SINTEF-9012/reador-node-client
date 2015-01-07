@@ -1,0 +1,18 @@
+{
+  "name": "reador-client",
+  "version": "0.1.0",
+  "description": "Reador.net Node.js client",
+  "main": "index.js",
+  "dependencies": {
+    "restler": "^3.2.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SINTEF-9012/reador-client.git"
+    },
+  "keywords": ["reador"],
+  "license": "MIT"
+}
