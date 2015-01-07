@@ -1,7 +1,7 @@
 Reador Node.js Client
 =====================
 
-Simple Node.js asynchronous client for [Reador.net[(http://reador.net/).
+Simple Node.js asynchronous client for [Reador.net](http://reador.net/).
 
 ### Installation
 
@@ -26,7 +26,7 @@ client.Search(["#duck", "#rabbit", "#cow"], function(search) {
 
 ### API
 
-*Yes it's the typescript definition output*.
+Simply Typescript's output.
 
 ```typescript
 class Client {
