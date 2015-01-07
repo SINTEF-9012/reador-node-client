@@ -5,7 +5,7 @@ Simple Node.js asynchronous client for [Reador.net](http://reador.net/).
 
 ### Installation
 
-```npm install reader-client```
+```npm install reador-client```
 
 ### Example
 
