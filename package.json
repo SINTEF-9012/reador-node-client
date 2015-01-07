@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SINTEF-9012/reador-client.git"
+    "url": "https://github.com/SINTEF-9012/reador-node-client.git"
     },
   "keywords": ["reador"],
   "license": "MIT"
